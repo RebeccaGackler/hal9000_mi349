@@ -1,1 +1,2 @@
 # hal9000_mi349
+//I wasn't totally sure how to embed a .png file into html, so I did some searching online and made use of the guide on this website: https://www.dummies.com/web-design-development/site-development/how-to-add-an-image-to-your-html5-web-page/
